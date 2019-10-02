@@ -1,0 +1,215 @@
+﻿2017-01 	Aether Revolt 		AER 	Expansion set 	73rd expansion
+2009-04 	Alara Reborn 		ARB 	Expansion set 	49th expansion
+1996-06 	Alliances 		ALL (AL) 	Expansion set 	8th expansion
+1993-08 	Alpha (Limited Edition) 		LEA (1E) 	Core set 	Core set #1 (1st printing); Cards do not show the expansion symbol.
+2017-04 	Amonkhet 		AKH 	Expansion set 	74th expansion
+2017-07 	Amonkhet Invocations 		MPS 	Compilation set 	Masterpiece Series set #3 (Amonkhet block)
+1998-11 	Anthologies 		ATH 	Box set 	First box set
+1994-03 	Antiquities 		ATQ (AQ) 	Expansion set 	2nd (non-block) expansion
+2001-05 	Apocalypse 		APC (AP) 	Expansion set 	23rd expansion
+1993-12 	Arabian Nights 		ARN (AN) 	Expansion set 	1st (non-block) expansion
+2010-06 	Archenemy 		ARC 	Supplemental set 	Archenemy set #1
+2017-06 	Archenemy: Nicol Bolas 		E01 	Supplemental set 	Archenemy set #2, Annex set #1
+2012-05 	Avacyn Restored 		AVR 	Expansion set 	58th expansion
+2015-10 	Battle for Zendikar 		BFZ 	Expansion set 	68th expansion
+1999-11 	Battle Royale 		BRB 	Box set 	
+2018-06 	Battlebond 		BBD 	Supplemental set 	
+2000-10 	Beatdown 		BTD 	Box set 	
+1993-10 	Beta (Limited Edition) 		LEB (2E) 	Core set 	Core set #1 (2nd printing); Cards do not show the expansion symbol.
+2005-02 	Betrayers of Kamigawa 		BOK 	Expansion set 	34th expansion
+2014-02 	Born of the Gods 		BNG 	Expansion set 	63rd expansion
+2018-04 	Challenger Decks 		Q01 	Box set 	Challenger Decks set #1
+2019-04 	Challenger Decks 2019 		Q02 	Box set 	Challenger Decks set #2
+2004-10 	Champions of Kamigawa 		CHK 	Expansion set 	33rd expansion
+1995-07 	Chronicles 		CHR (CH) 	Compilation set 	
+2006-07 	Coldsnap 		CSP 	Expansion set 	39th expansion
+2011-06 	Commander 		CMD 	Box set 	Commander set #1
+2013-11 	Commander 2013 		C13 	Box set 	Commander set #3
+2014-11 	Commander 2014 		C14 	Box set 	Commander set #4
+2015-11 	Commander 2015 		C15 	Box set 	Commander set #5
+2016-11 	Commander 2016 		C16 	Box set 	Commander set #6
+2017-08 	Commander 2017 		C17 	Box set 	Commander set #8
+2018-08 	Commander 2018 		C18 	Box set 	Commander set #10
+2019-08 	Commander 2019 		C19 	Box set 	Commander set #10
+2017-06 	Commander Anthology 		CMA 	Box set 	Commander set #7
+2018-06 	Commander Anthology Volume II 		CM2 	Box set 	Commander set #9
+2009-08 	Commander Theme Decks 		TD0 	Box set 	Magic Online only
+2012-11 	Commander's Arsenal 		CM1 	Box set 	Commander set #2
+2009-02 	Conflux 		CON 	Expansion set 	48th expansion
+2014-06 	Conspiracy 		CNS 	Supplemental set 	Conspiracy set #1
+2016-08 	Conspiracy: Take the Crown 		CN2 	Supplemental set 	Conspiracy set #2
+2018-07 	Core Set 2019 		M19 	Core set 	Core set #18
+2019-07 	Core Set 2020 		M20 	Core set 	Core set #19
+2012-02 	Dark Ascension 		DKA 	Expansion set 	57th expansion
+2004-02 	Darksteel 		DST 	Expansion set 	31st expansion
+2010-05 	Deck Builder's Toolkit 			Box set 	Deck Builder's Toolkit #1
+2011-03 	Deck Builder's Toolkit 2011 			Box set 	Deck Builder's Toolkit #2; After this release the toolkit was always part for a core or block set.
+2001-12 	Deckmasters 2001 		DKM 	Box set 	
+2006-05 	Dissension 		DIS 	Expansion set 	38th expansion
+2018-04 	Dominaria 		DOM 	Expansion set 	78th expansion
+2013-05 	Dragon's Maze 		DGM 	Expansion set 	61st expansion
+2015-03 	Dragons of Tarkir 		DTK 	Expansion set 	67th expansion
+2014-12 	Duel Decks Anthology 		DD3 	Box set 	Duel Decks reprint set
+2011-09 	Duel Decks: Ajani vs. Nicol Bolas 		DDH 	Box set 	Duel Decks set #8
+2016-02 	Duel Decks: Blessed vs. Cursed 		DDQ 	Box set 	Duel Decks set #17
+2009-04 	Duel Decks: Divine vs. Demonic 		DDC 	Box set 	Duel Decks set #3
+2015-02 	Duel Decks: Elspeth vs. Kiora 		DDO 	Box set 	Duel Decks set #15
+2010-09 	Duel Decks: Elspeth vs. Tezzeret 		DDF 	Box set 	Duel Decks set #6
+2007-11 	Duel Decks: Elves vs. Goblins 		EVG 	Box set 	Duel Decks set #1
+2018-04 	Duel Decks: Elves vs. Inventors 		DDU 	Box set 	Duel Decks set #21
+2009-10 	Duel Decks: Garruk vs. Liliana 		DDD 	Box set 	Duel Decks set #4
+2013-09 	Duel Decks: Heroes vs. Monsters 		DDL 	Box set 	Duel Decks set #12
+2012-09 	Duel Decks: Izzet vs. Golgari 		DDJ 	Box set 	Duel Decks set #10
+2008-11 	Duel Decks: Jace vs. Chandra 		DD2 	Box set 	Duel Decks set #2
+2014-03 	Duel Decks: Jace vs. Vraska 		DDM 	Box set 	Duel Decks set #13
+2011-04 	Duel Decks: Knights vs. Dragons 		DDG 	Box set 	Duel Decks set #7
+2017-11 	Duel Decks: Merfolk vs. Goblins 		DDT 	Box set 	Duel Decks set #20
+2017-03 	Duel Decks: Mind vs. Might 		DDS 	Box set 	Duel Decks set #19
+2013-01 	Duel Decks: Mirrodin Pure vs. New Phyrexia 		TD2 	Box set 	Magic Online Duel Deck
+2016-09 	Duel Decks: Nissa vs. Ob Nixilis 		DDR 	Box set 	Duel Decks set #18
+2010-03 	Duel Decks: Phyrexia vs. The Coalition 		DDE 	Box set 	Duel Decks set #5
+2013-03 	Duel Decks: Sorin vs. Tibalt 		DDK 	Box set 	Duel Decks set #11
+2014-10 	Duel Decks: Speed vs. Cunning 		DDN 	Box set 	Duel Decks set #14
+2012-03 	Duel Decks: Venser vs. Koth 		DDI 	Box set 	Duel Decks set #9
+2015-08 	Duel Decks: Zendikar vs. Eldrazi 		DDP 	Box set 	Duel Decks set #16
+2010-06 	Duels of the Planeswalkers 		DPA 	Box set 	Inspired by the digital game
+2003-07 	Eighth Edition 		8ED (8E) 	Core set 	Core set #8
+2016-07 	Eldritch Moon 		EMN 	Expansion set 	71st expansion
+2016-06 	Eternal Masters 		EMA 	Compilation set 	Masters set #3
+2008-06 	Eventide 		EVE 	Expansion set 	46th expansion
+1998-06 	Exodus 		EXO (EX) 	Expansion set 	14th expansion
+2017-11 	Explorers of Ixalan 		E02 	Supplemental set 	Annex set #2
+1994-11 	Fallen Empires 		FEM (FE) 	Expansion set 	5th (non-block) expansion
+2015-01 	Fate Reforged 		FRF 	Expansion set 	66th expansion
+2004-06 	Fifth Dawn 		5DN 	Expansion set 	32nd expansion
+1997-03 	Fifth Edition 		5ED (5E) 	Core set 	Core set #5; Cards do not show the expansion symbol.
+1995-05 	Fourth Edition 		4ED (4E) 	Core set 	Core set #4; Cards do not show the expansion symbol.
+2015-08 	From the Vault: Angels 		V15 	Box set 	From the Vault set #8
+2014-08 	From the Vault: Annihilation 		V14 	Box set 	From the Vault set #7
+2008-08 	From the Vault: Dragons 		DRB 	Box set 	From the Vault set #1
+2009-08 	From the Vault: Exiled 		V09 	Box set 	From the Vault set #2
+2011-08 	From the Vault: Legends 		V11 	Box set 	From the Vault set #4
+2016-08 	From the Vault: Lore 		V16 	Box set 	From the Vault set #9
+2012-08 	From the Vault: Realms 		V12 	Box set 	From the Vault set #5
+2010-08 	From the Vault: Relics 		V10 	Box set 	From the Vault set #3
+2017-11 	From the Vault: Transform 		V17 	Box set 	From the Vault set #10
+2013-08 	From the Vault: Twenty 		V13 	Box set 	From the Vault set #6
+2007-05 	Future Sight 		FUT 	Expansion set 	42nd expansion
+2018-11 	Game Night 		GNT 	Box set 	
+2013-02 	Gatecrash 		GTC 	Expansion set 	60th expansion
+2018-06 	Global Series: Jiang Yanggu & Mu Yanling 		GS1 	Box set 	Global Series set #1
+2006-02 	Guildpact 		GPT 	Expansion set 	37th expansion
+2018-10 	Guilds of Ravnica 		GRN 	Expansion set 	79th expansion
+2018-11 	Guilds of Ravnica Guild Kits 		GK1 	Box set 	Annex set #4, 1st set of Guild Kits
+2018-10 	Guilds of Ravnica Mythic Edition 		MED 	Special edition 	
+1995-10 	Homelands 		HML (HM) 	Expansion set 	7th (non-block) expansion
+2017-07 	Hour of Devastation 		HOU 	Expansion set 	75th expansion
+1995-06 	Ice Age 		ICE (IA) 	Expansion set 	6th expansion
+2017-11 	Iconic Masters 		IMA 	Compilation set 	Masters set #5
+2011-09 	Innistrad 		ISD 	Expansion set 	56th expansion
+2000-09 	Invasion 		INV (IN) 	Expansion set 	21st expansion
+2017-09 	Ixalan 		XLN 	Expansion set 	76th expansion
+2014-05 	Journey into Nyx 		JOU 	Expansion set 	64th expansion
+2002-05 	Judgment 		JUD (JU) 	Expansion set 	26th expansion
+2016-09 	Kaladesh 		KLD 	Expansion set 	72nd expansion
+2017-01 	Kaladesh Inventions 		MPS 	Compilation set 	Masterpiece Series set #2 (Kaladesh block)
+2014-10 	Khans of Tarkir 		KTK 	Expansion set 	65th expansion
+2015-11 	Legendary Cube 		PZ1 	Compilation set 	Magic Online only
+1994-06 	Legends 		LEG (LE) 	Expansion set 	3rd (non-block) expansion
+2003-01 	Legions 		LGN (LE) 	Expansion set 	28th expansion
+2007-10 	Lorwyn 		LRW 	Expansion set 	43rd expansion
+2009-07 	Magic 2010 		M10 	Core set 	Core set #11
+2010-07 	Magic 2011 		M11 	Core set 	Core set #12
+2011-07 	Magic 2012 		M12 	Core set 	Core set #13
+2012-07 	Magic 2013 		M13 	Core set 	Core set #14
+2013-07 	Magic 2014 		M14 	Core set 	Core set #15
+2014-07 	Magic 2015 		M15 	Core set 	Core set #16
+2010-11 	Magic Online Deck Series 		TD0 	Box set 	Magic Online only; Same set code and symbol as the Commander Theme Decks
+2015-07 	Magic Origins 		ORI 	Core set 	Core set #17
+2018-03 	Masters 25 		A25 	Compilation set 	Masters set #6
+2007-09 	Masters Edition 		MED 	Compilation set 	Magic Online Masters set #1
+2008-09 	Masters Edition II 		ME2 	Compilation set 	Magic Online Masters set #2
+2009-09 	Masters Edition III 		ME3 	Compilation set 	Magic Online Masters set #3
+2011-01 	Masters Edition IV 		ME4 	Compilation set 	Magic Online Masters set #4
+1999-09 	Mercadian Masques 		MMQ (MM) 	Expansion set 	18th expansion
+1996-10 	Mirage 		MIR (MI) 	Expansion set 	9th expansion
+2003-10 	Mirrodin 		MRD 	Expansion set 	30th expansion
+2011-02 	Mirrodin Besieged 		MBS 	Expansion set 	54th expansion
+2014-05 	Modern Event Deck 		MD1 	Box set 	
+2019-06 	Modern Horizons 		MH1 	Supplemental set 	
+2013-06 	Modern Masters 		MMA 	Compilation set 	Masters set #1
+2015-05 	Modern Masters 2015 		MM2 	Compilation set 	Masters set #2
+2017-03 	Modern Masters 2017 		MM3 	Compilation set 	Masters set #4
+2010-11 	Momir Basic Event Deck 			Box set 	Magic Online only
+2008-02 	Morningtide 		MOR 	Expansion set 	44th expansion
+2000-02 	Nemesis 		NEM (NE) 	Expansion set 	19th expansion
+2011-05 	New Phyrexia 		NPH 	Expansion set 	55th expansion
+2005-07 	Ninth Edition 		9ED 	Core set 	Core set #9
+2016-01 	Oath of the Gatewatch 		OGW 	Expansion set 	69th expansion
+2001-10 	Odyssey 		ODY (OD) 	Expansion set 	24th expansion
+2002-10 	Onslaught 		ONS (ON) 	Expansion set 	27th expansion
+2007-02 	Planar Chaos 		PLC 	Expansion set 	41st expansion
+2009-09 	Planechase 		HOP 	Supplemental set 	Planechase set #1
+2012-05 	Planechase 2012 		PC2 	Supplemental set 	Planechase set #2
+2016-11 	Planechase Anthology 		PCA 	Box set 	Planechase set #3
+2001-01 	Planeshift 		PLS (PS) 	Expansion set 	22nd expansion
+1997-05 	Portal 		POR (PO) 	Starter set 	Starter set #1
+1998-06 	Portal Second Age 		P02 (P2) 	Starter set 	Starter set #2
+1999-05 	Portal Three Kingdoms 		PTK (PK) 	Starter set 	Starter set #3
+2010-11 	Premium Deck Series: Fire & Lightning 		PD2 	Box set 	Premium Deck Series set #2
+2011-11 	Premium Deck Series: Graveborn 		PD3 	Box set 	Premium Deck Series set #3
+2009-11 	Premium Deck Series: Slivers 		H09 	Box set 	Premium Deck Series set #1
+2000-06 	Prophecy 		PCY (PR) 	Expansion set 	20th expansion
+2019-01 	Ravnica Allegiance 		RNA 	Expansion set 	80th expansion
+2019-02 	Ravnica Allegiance Guild Kits 		GK2 	Box set 	Annex set #5, 2nd set of Guild Kits
+2018-10 	Ravnica Allegiance Mythic Edition 		MED 	Special edition 	
+2005-10 	Ravnica: City of Guilds 		RAV 	Expansion set 	36th expansion
+1995-08 	Renaissance 			Compilation set 	
+2012-10 	Return to Ravnica 		RTR 	Expansion set 	59th expansion
+1994-04 	Revised Edition 		3ED (3E) 	Core set 	Core set #3; Cards do not show the expansion symbol.
+2010-04 	Rise of the Eldrazi 		ROE 	Expansion set 	52nd expansion
+2018-01 	Rivals of Ixalan 		RIX 	Expansion set 	77th expansion
+2005-08 	Salvat 2005 			Compilation set 	Magic Encyclopedia set #1
+2011-01 	Salvat 2011 			Compilation set 	Magic Encyclopedia set #2
+2005-06 	Saviors of Kamigawa 		SOK 	Expansion set 	35th expansion
+2010-10 	Scars of Mirrodin 		SOM 	Expansion set 	53rd expansion
+2003-05 	Scourge 		SCG (SC) 	Expansion set 	29th expansion
+2001-04 	Seventh Edition 		7ED (7E) 	Core set 	Core set #7
+2008-05 	Shadowmoor 		SHM 	Expansion set 	45th expansion
+2016-04 	Shadows over Innistrad 		SOI 	Expansion set 	70th expansion
+2008-09 	Shards of Alara 		ALA 	Expansion set 	47th expansion
+2019-06 	Signature Spellbook: Gideon 		SS2 	Box set 	Signature Spellbook set #2
+2018-06 	Signature Spellbook: Jace 		SS1 	Box set 	Signature Spellbook set #1
+1999-04 	Sixth Edition 		6ED (6E) 	Core set 	Core set #6
+2018-10 	Spellslinger Starter Kit 		SK1 	Box set 	
+1999-08 	Starter 1999 		S99 (P3) 	Starter set 	Starter set #4
+2000-04 	Starter 2000 		S00 	Starter set 	Starter set #5
+1998-02 	Stronghold 		STH (ST) 	Expansion set 	13th expansion
+1997-10 	Tempest 		TMP (TE) 	Expansion set 	12th expansion
+2015-05 	Tempest Remastered 		TPR 	Compilation set 	Magic Online Masters set #6
+2007-07 	Tenth Edition 		10E 	Core set 	Core set #10
+1994-08 	The Dark 		DRK (DK) 	Expansion set 	4th (non-block) expansion
+2013-09 	Theros 		THS 	Expansion set 	62nd expansion
+2019-10 	Throne of Eldraine 		ELD 	Expansion set 	82nd expansion
+2006-10 	Time Spiral 		TSP 	Expansion set 	40th expansion
+2002-02 	Torment 		TOR (TO) 	Expansion set 	25th expansion
+2016-10 	Treasure Chests 		PZ2 	Compilation set 	Magic Online only
+2018-12 	Ultimate Masters 		UMA 	Compilation set 	Masters set #7
+1998-08 	Unglued 		UGL (UG) 	Un-set 	Un-set #1
+2004-11 	Unhinged 		UNH 	Un-set 	Un-set #2
+1993-12 	Unlimited Edition 		2ED (2U) 	Core set 	Core set #2; Cards do not show the expansion symbol.
+2017-12 	Unstable 		UST 	Un-set 	Un-set #3
+1999-06 	Urza's Destiny 		UDS (CG) 	Expansion set 	17th expansion
+1999-02 	Urza's Legacy 		ULG (GU) 	Expansion set 	16th expansion
+1998-10 	Urza's Saga 		USG (UZ) 	Expansion set 	15th expansion
+2014-06 	Vintage Masters 		VMA 	Compilation set 	Magic Online Masters set #5
+1997-02 	Visions 		VIS (VI) 	Expansion set 	10th expansion
+2019-05 	War of the Spark 		WAR 	Expansion set 	81st expansion
+2019-05 	War of the Spark Mythic Edition 		MED 	Special edition 	
+1997-06 	Weatherlight 		WTH (WL) 	Expansion set 	11th expansion
+2016-04 	Welcome Deck 2016 		W16 	Compilation set 	Welcome Deck set #1
+2017-04 	Welcome Deck 2017 		W17 	Compilation set 	Welcome Deck set #2
+2010-02 	Worldwake 		WWK 	Expansion set 	51st expansion
+2016-11 	You Make the Cube 			Compilation set 	Magic Online only
+2009-10 	Zendikar 		ZEN 	Expansion set 	50th expansion
+2016-01 	Zendikar Expeditions 		EXP 	Compilation set 	Masterpiece Series set #1 (Battle for Zendikar block)
