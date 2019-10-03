@@ -10,7 +10,7 @@ namespace RandoStandardBot
 {
     public class MagicModule : ModuleBase<SocketCommandContext>
     {
-        private Random _rng;
+        private readonly Random _rng;
         private readonly List<Set> _sets;
 
         public MagicModule(List<Set> sets, Random rng)
@@ -41,6 +41,12 @@ namespace RandoStandardBot
 
             selected.Add(coreSets[_rng.Next(coreSets.Count)]);
 
+            await ReplyAsync("", false, FormulateEmbed(selected));
+
+        }
+
+        private Embed FormulateEmbed(List<Set> selected)
+        {
             var embed = new EmbedBuilder
             {
                 Title = "Rando Standard Sets",
@@ -71,7 +77,7 @@ namespace RandoStandardBot
             }
             embed.AddField(field2);
 
-            await ReplyAsync("", false, embed.Build());
+            return embed.Build();
         }
     }
 }
