@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using Discord;
 using Discord.Commands;
 using System.Linq;
 
@@ -40,15 +41,37 @@ namespace RandoStandardBot
 
             selected.Add(coreSets[_rng.Next(coreSets.Count)]);
 
-            string msg = "```\nRando Standard Sets:\n";
-
-            foreach(Set set in selected)
+            var embed = new EmbedBuilder
             {
-                msg += $"\n{set.Name} ({set.Code})";
-            }
+                Title = "Rando Standard Sets",
+                Description = "Time to get brewing!",
+            };
 
-            msg += "\n```";
-            await ReplyAsync(msg);
+            var field1 = new EmbedFieldBuilder
+            {
+                Name = "Expansions"
+            };
+
+            foreach (Set set in selected)
+            {
+                if (set.Type == Set.SetType.Expansion)
+                    field1.Value += $"[{set.Name} ({set.Code})]({$"\nhttps://www.mythicspoiler.com/{set.Code.Substring(0, 3).ToLower()}/index.html"})\n";
+            }
+            embed.AddField(field1);
+
+
+            var field2 = new EmbedFieldBuilder
+            {
+                Name = "Core Set"
+            };
+            foreach (Set set in selected)
+            {
+                if (set.Type == Set.SetType.Core)
+                    field2.Value += $"[{set.Name} ({set.Code})]({$"\nhttps://www.mythicspoiler.com/{set.Code.Substring(0, 3).ToLower()}/index.html"})\n";
+            }
+            embed.AddField(field2);
+
+            await ReplyAsync("", false, embed.Build());
         }
     }
 }
