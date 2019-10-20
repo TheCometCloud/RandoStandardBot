@@ -34,6 +34,8 @@ namespace RandoStandardBot
 
         public async Task InstallCommandsAsync()
         {
+
+            _commands.AddTypeReader(typeof(bool), new BooleanTypeReader());
             _client.MessageReceived += HandleCommandAsync;
             await _commands.AddModulesAsync(assembly: Assembly.GetEntryAssembly(),
                                             services: _services);
@@ -63,7 +65,7 @@ namespace RandoStandardBot
         {
             List<Set> sets = new List<Set>();
             string line;
-            System.IO.StreamReader file = new System.IO.StreamReader(@"..\..\..\Sets.txt");
+            System.IO.StreamReader file = new System.IO.StreamReader(@"Sets.txt");
             while ((line = file.ReadLine()) != null)
             {
                 string[] tokens = line.Split('\t');
@@ -81,6 +83,7 @@ namespace RandoStandardBot
                 };
                 sets.Add(set);
             }
+            file.Close();
 
             return sets;
         }

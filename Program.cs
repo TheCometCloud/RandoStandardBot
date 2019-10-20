@@ -22,7 +22,7 @@ namespace RandoStandardBot
             CommandHandler handler = new CommandHandler(_client, new Discord.Commands.CommandService());
             await handler.InstallCommandsAsync();
 
-            var token = File.ReadAllText(@"..\..\..\token.txt");
+            var token = File.ReadAllText(@"token.txt");
 
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
